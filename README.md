@@ -2,7 +2,7 @@
 
 A computer vision project exploring deep learning techniques for classifying shrimp images into health and disease categories, with model conversion workflows for mobile deployment.
 
-## Overview
+# Overview
 
 Shrimp diseases can affect aquaculture productivity and shrimp health. This project investigates CNN-based image classification to identify five shrimp health categories from images.
 
